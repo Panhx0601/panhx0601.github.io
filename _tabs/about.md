@@ -6,7 +6,7 @@ order: 4
 
 # Hi I'm HaoXiang Pan
 
-Welcome!👋 I am a fourth-year BD student at [HNU](https://www.hnu.edu.cn/), and I will be a third-year MD student at [HNU](https://www.hnu.edu.cn/) advised by [Prof. Guo Chen](•https://1989chenguo.github.io/).
+Welcome!👋 I am a fourth-year BD student at [HNU](https://www.hnu.edu.cn/), and I will be a third-year MD student at [HNU](https://www.hnu.edu.cn/) advised by [Prof. Guo Chen](https://1989chenguo.github.io/).
 
 More:
 
