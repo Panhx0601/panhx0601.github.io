@@ -11,7 +11,7 @@ Welcome!👋 I am a fourth-year BD student at [HNU](https://www.hnu.edu.cn/), an
 More:
 
 - 🔭 I’m currently studying at HNU as a BD student.
-- 🌱 I’m currently learning C++, Go, Java, Combine.
+- 🌱 I’m currently learning C++, Go and Java.
 - 🎓 HNU CS 2018-2022 / HNU CS 2022-2025.
 - ✨ I once worked in Meituan for two months.
 - ✍ Many Games🎮 / basketball / blogger / coding / open source.
